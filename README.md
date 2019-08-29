@@ -1,1 +1,1 @@
-# JAVA --- Linguagem-de-Programa-o
+# JAVA --- Linguagem de Programação
