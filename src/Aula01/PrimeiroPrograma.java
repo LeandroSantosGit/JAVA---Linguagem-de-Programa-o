@@ -7,7 +7,7 @@ package Aula01;
 
 /**
  *
- * @author Lena
+ * @author Leandro
  */
 public class PrimeiroPrograma {
 
