@@ -2,9 +2,10 @@
 import javax.swing.*;
 
 /**
+ * Exercício 3
  * Interface gráfica de cadastro de funcionário
  * 
- * Date      
+ * Date    14/09/2019
  * @author Leandro
  */
 public class Formulario2 {

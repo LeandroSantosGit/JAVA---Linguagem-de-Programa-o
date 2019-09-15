@@ -2,6 +2,7 @@
 import javax.swing.*;
 
 /**
+ * Exercício 2
  * Criando primeira interface gráfica com Swing, tela simples com título
  * 
  * Date    14/09/2019  

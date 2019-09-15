@@ -2,7 +2,8 @@
 package br.com.faculdade.aula03;
 
 /**
- *  Somar dois numeros e moistar o resultado
+ * Exercício 1 
+ * Somar dois numeros e moistar o resultado
  * 
  * Date    14/09/2019 
  * @author Leandro
