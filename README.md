@@ -33,8 +33,6 @@ aplicativos com interface gráfica.
 
 #### Aula 10: Manipulação de modelo de classes em Interfaces Gráficas
 
-[Resumo das aulas](https://www.evernote.com/shard/s522/sh/ff8b72c5-fd8b-41c2-a5c9-a89430cd55fa/2d4776c53c2134f11008ddfae00e116d)
-
 ## Recursos Ultilizados no Desenvolvimento
 
 [NetBeans IDE 8.2](https://netbeans.org/)
