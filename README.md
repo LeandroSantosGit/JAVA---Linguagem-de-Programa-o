@@ -1,38 +1,44 @@
-# JAVA - Linguagem de ProgramaÁ„o
+Ôªø# JAVA - Linguagem de Programa√ß√£o
 
 ## Ementa 
 
-Paradigma de programaÁ„o orientado a objeto;estrutura de programaÁ„o
-orientada a objetos; principais elementos de construÁ„o/utilizaÁ„o de
-aplicativos com interface gr·fica.
+Paradigma de programa√ß√£o orientado a objeto;estrutura de programa√ß√£o
+orientada a objetos; principais elementos de constru√ß√£o/utiliza√ß√£o de
+aplicativos com interface gr√°fica.
+
 
 ## Objetivos
 
-* compreender os conceitos programaÁ„o orientada a objetos.
-* desenvolver aplicativos utilizando o paradigma de orientaÁ„o a objetos
+* compreender os conceitos programa√ß√£o orientada a objetos.
+* desenvolver aplicativos utilizando o paradigma de orienta√ß√£o a objetos
 
-## Conte˙do das aulas.
 
-#### Aula 1: IntroduÁ„o ‡ Linguagem de ProgramaÁ„o Java
+## Conte√∫do das aulas.
 
-#### Aula 2: Tipos de Dados e Estruturas b·sicas de programaÁ„o
+#### Aula 1: Introdu√ß√£o √† Linguagem de Programa√ß√£o Java
 
-#### Aula 3: IntroduÁ„o as interfaces gr·ficas
+#### Aula 2: Tipos de Dados e Estruturas b√°sicas de programa√ß√£o
 
-#### Aula 4: PrincÌpios da OrientaÁ„o ‡ Objetos
+#### Aula 3: Introdu√ß√£o as interfaces gr√°ficas
 
-#### Aula 5: HeranÁa
+#### Aula 4: Princ√≠pios da Orienta√ß√£o √† Objetos
 
-#### Aula 6: Encapsulamento e AssociaÁıes de Classes
+#### Aula 5: Heran√ßa
+
+#### Aula 6: Encapsulamento e Associa√ß√µes de Classes
 
 #### Aula 7: Interfaces e Polimorfismo
 
 #### Aula 8: Listeners e Adapters
 
-#### Aula 9: Tratamento de ExceÁ„o
+#### Aula 9: Tratamento de Exce√ß√£o
 
-#### Aula 10: ManipulaÁ„o de modelo de classes em Interfaces Gr·ficas
+
+#### Aula 10: Manipula√ß√£o de modelo de classes em Interfaces Gr√°ficas
 
 ## Recursos Ultilizados no Desenvolvimento
 
 [NetBeans IDE 8.2](https://netbeans.org/)
+[Swing Application Framework](https://www.oracle.com/technical-resources/articles/javase/swingappfr.html)
+[Extens√µes de Layout Swing]
+
