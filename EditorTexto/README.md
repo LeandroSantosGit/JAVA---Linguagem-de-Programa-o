@@ -1,6 +1,6 @@
 ﻿<div align="center">
     <h1 alt="editorTexto" title="#editorTexto">Editor de Texto</h1><br>
-    <img alt="imgEditorTexto" title="#imgEditorTexto" src=".github/logo.JPG" width="250px" />
+    <img alt="imgEditorTexto" title="#imgEditorTexto" src=".github/logo.JPG" width="750px" />
 </div>
 
 ## :computer: Projeto Editor de Texto
