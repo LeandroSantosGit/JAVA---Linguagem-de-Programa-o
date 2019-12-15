@@ -33,8 +33,12 @@ aplicativos com interface gráfica.
 
 #### Aula 9: Tratamento de Exceção
 
-
 #### Aula 10: Manipulação de modelo de classes em Interfaces Gráficas
+
+## Projeto
+
+[Editor de Texto](https://github.com/LeandroSantosGit/JAVA-Linguagem-de-Programacao/tree/master/EditorTexto)
+
 
 ## Recursos Ultilizados no Desenvolvimento
 

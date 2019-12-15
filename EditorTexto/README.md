@@ -3,7 +3,7 @@
     <img alt="imgEditorTexto" title="#imgEditorTexto" src=".github/logo.JPG" width="750px" />
 </div>
 
-## :computer: Projeto Editor de Texto
+## :memo: Projeto Editor de Texto
 
 Projeto feito ao final do curso, aprimorando os conhecimentos aprendidos.
 
